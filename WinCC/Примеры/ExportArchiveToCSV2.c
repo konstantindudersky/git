@@ -115,3 +115,4 @@ int ExportArchiveToCSV2(SYSTEMTIME stStart, SYSTEMTIME stStop, char * ArchiveNam
     fclose(LogFile);   
     return 0;   
 } 
+
